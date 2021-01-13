@@ -1,1 +1,1 @@
-# wi2020-data-analytics-python
+# Winter 2021: Workshop 3 Introduction to Data Analytics with Python
